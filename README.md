@@ -1,3 +1,4 @@
+- The project is live on https://recyclohub.onrender.com/.
 - Sample screenshots from the AI-Driven waste management and recycling system are attached as:
 
 ![alt text](image-1.png)
