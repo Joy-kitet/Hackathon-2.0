@@ -65,7 +65,7 @@ export function WasteAnalyzer({ isOpen, onClose }: WasteAnalyzerProps) {
     setResponse(null)
 
     try {
-      const res = await fetch("https://recyclohub.onrender.com/api/analyze", {
+      const res = await fetch("https://hackathon-2-0-fhlk.onrender.com/api/analyze", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query: query.trim() }),
