@@ -1,4 +1,4 @@
-- The project is live on https://recyclohub.onrender.com/.
+- The project is live on https://hackathon-2-0-chi.vercel.app/.
 - Sample screenshots from the AI-Driven waste management and recycling system are attached as:
 
 ![alt text](image-1.png)
